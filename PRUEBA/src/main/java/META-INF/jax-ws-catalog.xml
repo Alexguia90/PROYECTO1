@@ -1,4 +1,6 @@
 <catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
   <system systemId="http://172.21.74.41:8003/SRV_Document/SRV_DocumentManage_v1?wsdl"
           uri="../pe/com/entel/esb/document/documentmanage/v1/MED_DocumentManage_v1.wsdl"/>
+		  </prueba>
+		  </prueba>
 </catalog>
